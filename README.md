@@ -8,4 +8,3 @@
 anunitachakraborty/anunitachakraborty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[Answers.docx](https://github.com/anunitachakraborty/anunitachakraborty/files/11954074/Answers.docx)
